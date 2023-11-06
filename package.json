@@ -1,0 +1,22 @@
+{
+  "name": "learn-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NurRozaqiUmam/learn-testing-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NurRozaqiUmam/learn-testing-js/issues"
+  },
+  "homepage": "https://github.com/NurRozaqiUmam/learn-testing-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
